@@ -1,0 +1,48 @@
+conditions,codes,cons_NB_37_RR,cons_count_13_RR,cons_bin_13_OR,cons_NB_20_RR,cons_count_5_RR,cons_bin_5_OR,hospital_37_HR,hospital_20_HR,mortality_37_HR,mortality_20_HR,gen_37
+Alcohol problems,ALC,1.07,1.35,1.57,1.09,1.41,1.65,1.86,2.14,2,2.25,0.55
+Anorexia or bulimia,ANO,1.11,1.16,1.1,,,,1.45,,1.81,,0.34
+Anxiety/Depression,ANX_DEP,1.25,,,1.24,,,1.45,1.49,1.4,1.41,0.47
+Asthma,AST,1.16,,,1.16,,,1.23,1.24,0.85,0.84,0.18
+Atrial fibrillation,ATR,1.52,,,1.52,,,1.52,1.51,1.4,1.38,1.3
+Blindness and low vision,BLI,1.02,1.13,1.67,,,,1.12,,1.02,,0.15
+Bronchiectasis,BRO,1.22,1.42,1.92,,,,1.5,,1.16,,0.66
+Cancer,CAN,1.28,,,1.27,,,1.86,1.87,3.64,3.6,1.5
+Chronic kidney disease,CKD,1.08,,,1.08,,,1.24,1.25,1.31,1.31,0.51
+Chronic Liver Disease and Viral Hepatitis,CLD,1.13,1.29,4.48,,,,1.76,,2.56,,0.72
+Chronic sinusitis,SIN,1.11,1.26,3.46,,,,1.06,,0.99,,0.13
+"Rheumatoid arthritis, other inflammatory polyarthropathies & systematic connective tissue disorders",RHE,1.25,1.68,5.96,1.27,1.69,5.83,1.19,1.2,1,0.99,0.4
+Constipation,CON,1.24,,,1.27,,,1.27,1.31,1.59,1.62,1.03
+COPD,COP,1.3,,,1.31,,,1.78,1.84,2.34,2.36,1.41
+Coronary heart disease,CHD,1.13,,,1.13,,,1.38,1.4,1.09,1.09,0.46
+Dementia,DEM,1.14,,,1.14,,,1.54,1.53,2.54,2.59,2.46
+Diabetes,DIB,1.4,,,1.4,,,1.43,1.45,1.39,1.41,0.71
+Diverticular disease,DIV,1.06,,,,,,1.05,,0.79,,-0.02
+Epilepsy,EPI,1.23,,,1.25,,,2.05,2.17,2.02,2.13,0.85
+Hearing loss,HEL,1.1,1.18,2.53,1.11,1.19,2.53,1.06,1.07,0.87,0.87,0.07
+Heart failure,HEF,1.18,2.69,2.23,1.18,2.65,2.29,1.22,1.23,1.53,1.55,1.12
+Hypertension,HYP,1.08,,,1.07,,,1.09,1.08,0.94,0.93,0.09
+Inflammatory bowel disease,IBD,1.25,1.78,4.58,,,,1.58,,0.97,,0.44
+Irritable bowel syndrome,IBS,1.18,1.42,3.61,1.2,1.44,3.54,1.09,1.11,0.93,0.88,0.18
+Learning disability,LEA,1.15,,,,,,1.75,,2.83,,0.47
+Migraine,MIG,1.13,,,,,,1.07,,0.33,,0.07
+Multiple sclerosis,MSC,1.25,,,,,,2.07,,1.67,,0.69
+Painful condition,PNC,1.34,,,1.35,,,1.65,1.69,1.61,1.62,0.87
+Parkinson's disease,PRK,1.29,,,,,,1.5,,1.73,,1.29
+Peptic ulcer disease,PEP,1.04,0.57,1.75,,,,1.11,,1.15,,0.2
+Peripheral vascular disease,PVD,1.06,,,,,,1.24,,1.25,,0.53
+Prostate Disorders,PRO,1.13,,,,,,1.03,,0.78,,0.01
+Psoriasis or eczema,PSO,1.19,,,,,,1.18,,0.94,,0.25
+Schizophrenia (and related non-organic psychosis) or bipolar disorder,SCZ,1.25,,,1.25,,,1.63,1.73,1.37,1.41,0.58
+Stroke & TIA,STR,1.12,,,1.12,,,1.4,1.42,1.36,1.36,0.77
+Substance Misuse,PSM,1.13,1.3,1.48,,,,1.69,,1.32,,0.38
+Thyroid disorders,THY,1.09,,,,,,1.01,,0.97,,0.08
+z:_cons, constant,3.43,2.55,15.81,3.49,2.53,18.33,,,,,
+z:Age 21/30,age_21_30,1.26,1.19,0.93,1.26,1.19,0.92,2.21,2.17,1.77,1.67,
+z:Age 31/40,age_31_40,1.17,1.11,0.95,1.17,1.11,0.93,1.51,1.51,1.26,1.22,
+z:Age 41/50,age_41_50,1.05,1,1.06,1.05,1,1.05,,,0.97,0.96,
+z:Age 61/70,age_61_70,1.02,1.11,1.95,1.02,1.11,2.01,,,0.86,0.87,
+z:Age 71/80,age_71_80,1.07,1.27,3.41,1.09,1.27,3.74,0.76,0.76,0.76,0.76,
+z:Age 81/max,age_81_max,1.1,1.43,0.75,1.11,1.41,0.76,0.85,0.85,0.85,0.85,
+z:Age at index date (10 yrs),age_cont,1.09,1.07,1.14,1.1,1.08,1.15,1.27,1.27,2.41,2.36,
+z:incfu,incfu,,0.57,0.25,,0.56,0.27,,,,,
+z:Male,sex,0.85,0.65,0.1,0.86,0.66,0.09,1.02,1.03,1.36,1.32,

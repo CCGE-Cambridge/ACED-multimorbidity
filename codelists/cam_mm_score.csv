@@ -1,0 +1,47 @@
+org_name,file_name,short_name,code_type,CONDITION
+ALC138 (MEDCODES),ALC138,ALC,MC,Alcohol problems
+ANO139 (MEDCODES),ANO139,ANO,MC,Anorexia or bulimia
+ANX140 (MEDCODES),ANX140,ANX,MC,"Anxiety & other neurotic, stress related & somatoform disorders"
+ANX141 (PRODCODES),ANX141,ANX,PC,"Anxiety & other neurotic, stress related & somatoform disorders"
+AST142 (MEDCODES),AST142,AST,MC,Asthma (currently treated)
+AST127 (PRODCODES),AST127,AST,PC,Asthma (currently treated)
+ATR143 (MEDCODES),ATR143,ATR,MC,Atrial fibrillation
+BLI144 (MEDCODES),BLI144,BLI,MC,Blindness and low vision
+BRO145 (MEDCODES),BRO145,BRO,MC,Bronchiectasis
+CAN146 (MEDCODES),CAN146,CAN,MC,Cancer - [New] Diagnosis in last five years
+CKD147 (MEDCODES),CKD147,CKD,MC,Chronic kidney disease
+CLD148 (MEDCODES),CLD148,CLD,MC,Chronic Liver Disease and Viral Hepatitis
+SIN149 (MEDCODES),SIN149,SIN,MC,Chronic sinusitis
+CON150 (PRODCODES),CON150,CON,PC,Constipation (Treated)
+COP151 (MEDCODES),COP151,COP,MC,COPD
+CHD126 (MEDCODES),CHD126,CHD,MC,Coronary heart disease
+DEM131 (MEDCODES),DEM131,DEM,MC,Dementia
+DEP152 (MEDCODES),DEP152,DEP,MC,Depression
+DEP153 (PRODCODES),DEP153,DEP,PC,Depression
+DIB128 (MEDCODES),DIB128,DIB,MC,Diabetes
+DIV154 (MEDCODES),DIV154,DIV,MC,Diverticular disease of intestine
+EPI155 (MEDCODES),EPI155,EPI,MC,Epilepsy (currently treated)
+EPI156 (PRODCODES),EPI156,EPI,PC,Epilepsy (currently treated)
+HEL157 (MEDCODES),HEL157,HEL,MC,Hearing loss
+HEF158 (MEDCODES),HEF158,HEF,MC,Heart failure
+HYP159 (MEDCODES),HYP159,HYP,MC,Hypertension
+IBD160 (MEDCODES),IBD160,IBD,MC,Inflammatory bowel disease
+IBS161 (MEDCODES),IBS161,IBS,MC,Irritable bowel syndrome
+IBS162 (PRODCODES),IBS162,IBS,PC,Irritable bowel syndrome
+LEA163 (MEDCODES),LEA163,LEA,MC,Learning disability
+MIG164 (PRODCODES),MIG164,MIG,PC,Migraine
+MSC165 (MEDCODES),MSC165,MSC,MC,Multiple sclerosis
+PNC166 (PRODCODES),PNC166,PNC,PC,Painful condition
+PNC167 (PRODCODES),PNC167,PNC,PC,Painful condition
+PRK169 (MEDCODES),PRK169,PRK,MC,Parkinson's disease
+PEP135 (MEDCODES),PEP135,PEP,MC,Peptic Ulcer Disease
+PVD168 (MEDCODES),PVD168,PVD,MC,Peripheral vascular disease
+PRO170 (MEDCODES),PRO170,PRO,MC,Prostate disorders
+PSO171 (MEDCODES),PSO171,PSO,MC,Psoriasis or eczema
+PSO172 (PRODCODES),PSO172,PSO,PC,Psoriasis or eczema
+PSM173 (MEDCODES),PSM173,PSM,MC,Psychoactive substance misuse (NOT ALCOHOL)
+RHE174 (MEDCODES),RHE174,RHE,MC,"Rheumatoid arthritis, other inflammatory polyarthropathies & systematic connective tissue disorders"
+SCZ175 (MEDCODES),SCZ175,SCZ,MC,Schizophrenia (and related non-organic psychosis) or bipolar disorder
+SCZ176 (PRODCODES),SCZ176,SCZ,PC,Schizophrenia (and related non-organic psychosis) or bipolar disorder
+STR130 (MEDCODES),STR130,STR,MC,Stroke & transient ischaemic attack
+THY179 (MEDCODES),THY179,THY,MC,Thyroid disorders
