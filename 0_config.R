@@ -1,7 +1,7 @@
 ##File name: config.R
 ##Author: Hannah Harrison
-##Last Edit: 07/10/2022
-##Description:set-up fro mm_score_project, install libraries, sets paths and loads functions, sets global variables
+##Last Edit: 20/02/2024
+##Description:set-up for mm_score_project, install libraries, sets paths and loads functions, sets global variables
 
 ##LIBRARIES
 library(MASS) #for boxcox function

@@ -1,6 +1,6 @@
 ##File name: main.r
 ##Author: Hannah Harrison
-##Last Edit: 24/08/2023
+##Last Edit: 20/02/2024
 ##Description:full analysis for mm_score project - tidied up as complete project
 
 ##0. CONFIG (libraries, paths and functions)
