@@ -3,7 +3,7 @@
 ##Last Edit: 23/01/2023
 ##Description: compute Harrell's c-index/concordance, using survival analysis approach for binary outocmes and fixed years of data 
 ##analysis by age and sex subgroups
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/results/subgroups"
+save_folder <- res_subgroups 
 
 ##set up subdf_EHR_cohort_maingroup dataframes
 df_all <- df_EHR_cohort_main

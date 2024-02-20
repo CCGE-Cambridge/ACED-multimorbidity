@@ -2,7 +2,7 @@
 ##Authors: Hannah Harrison
 ##Last Edit: 17/04/2023
 ##Description: calculate relative risk deciles and plot graphically (calibration assessment) for each model
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/graphs/calib"
+save_folder <- graph_calib
 
 model_list <- c("PI_mort_37",  "PI_mort_20",  "PI_hosp_37", "PI_hosp_20", "num_mm_37", "num_mm_20", "PI_gen_37") 
 idx_ref_decile <- c(5, 5, 5, 5, 8, 8, 8) 

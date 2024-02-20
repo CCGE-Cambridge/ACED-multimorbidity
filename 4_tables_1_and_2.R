@@ -4,7 +4,7 @@
 ##Description: summary statistics for cohort and for outcomes
 
 #0. set-up for tables
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/results/table_1"
+save_folder <- res_t1
 
 #merge from ukb baseline main to get smoking status and ethnicity
 all_baseline_fields <- fread(fpath_baseline_vars)

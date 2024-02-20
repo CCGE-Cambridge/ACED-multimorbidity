@@ -30,11 +30,21 @@ fpath_gp_med <- "~/health_records/gp_scripts.txt"
 fpath_baseline_vars <- "~/ACED-multimorbidity/codelists/baseline_vars_inc_HES_list.csv"
 fpath_ICD10_codes <- "~/ACED-multimorbidity/codelists/ICD10_cancer.csv"
 fpath_ICD9_codes <- "~/ACED-multimorbidity/codelists/ICD9_cancer.csv"
-fpath_save_data <- "~/private_data/mm_score"
 my_conditions <- "~/ACED-multimorbidity/codelists/cam_mm_score.csv"
 cam_multi_morb_file <- "~/ACED-multimorbidity/codelists/cam_mm_score_coeffs.csv"
 mm_score_clinical <- "~/ACED-multimorbidity/codelists/cam_mm_clinical.csv" #codes for clincial records
 mm_score_scripts <- "~/ACED-multimorbidity/codelists/cam_mm_scripts.csv" #codes for prescriptions
+
+##save paths
+fpath_save_data <- "~/private_data/mm_score"
+res_t1 <- "~/ACED-multimorbidity/results/table_1"
+res_cstats <- "~/ACED-multimorbidity/results/c_stats"
+res_subgroups <- "~/ACED-multimorbidity/results/subgroups"
+
+graph_calib <- "~/ACED-multimorbidity/graphs/calib"
+graph_cstats <- "~/ACED-multimorbidity/graphs/c_stats"
+graph_KM <- "~/ACED-multimorbidity/graphs/KM_plots"
+graph_subgroups <- "~/ACED-multimorbidity/graphs/subgroups"
 
 ##LOAD FUNCTION FILES
 source("~/ACED-multimorbidity/dependencies/graph_theme.r") #defines custon theme for ggplot2

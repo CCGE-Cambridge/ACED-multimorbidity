@@ -6,7 +6,7 @@
 death_date_max <- death_study_end  
 cancer_date_max <- cancer_study_end
 gp_date_max <- gp_study_end
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/graphs/KM_plots"
+save_folder <- graph_KM
 
 ##outcome of death - use whole cohort
 df_cohort_death <- df_EHR_cohort_main %>% select(eid, death_date, baseline_date, case_death_any)

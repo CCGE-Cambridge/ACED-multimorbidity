@@ -3,7 +3,7 @@
 ##Last Edit: 23/01/2023
 ##Description: compute Harrell's c-index/concordance, using survival analysis approach for binary outocmes and fixed years of data for continuous outcomes
 
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/results/c_stats"
+save_folder <- res_cstats
 models <- c("PI_mort_37", "PI_mort_20", "PI_hosp_37", "PI_hosp_20", "num_mm_37", "num_mm_20", "PI_cons_NB_37", "PI_cons_NB_20", "PI_gen_37")
 
 death_date_max <- death_study_end  

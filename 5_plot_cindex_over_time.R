@@ -3,8 +3,8 @@
 ##Last Edit: 23/01/2023
 ##Description: plot the c-index for mmscores (outcomes of death/cancer) over time
 
-results_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/results/c_stats"
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/graphs/c_stats"
+results_folder <- res_cstats
+save_folder <- graph_cstats
 model_refs <- c("PI_mort_37", "PI_hosp_37", "num_mm_37", "PI_gen_37") 
 
 model_labels <- c("Mortality CMS", "Hospital CMS", "Count Score", "General CMS") 

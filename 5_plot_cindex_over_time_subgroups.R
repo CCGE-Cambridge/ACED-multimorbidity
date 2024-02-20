@@ -3,8 +3,8 @@
 ##Last Edit: 23/01/2023
 ##Description: plot the c-index for general outcome score, in subgroups
 
-results_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/results/subgroups"
-save_folder <- "~/ACED-RREDD-EHR/cam_mm_score_project/graphs/subgroups"
+results_folder <- res_subgroups
+save_folder <- graph_subgroups
 
 #create summary files for general outcome score, all subgroups
 sg_file_names <- c("all", "men", "women", "forties", "fifties", "sixties", "forties_men", "fifties_men", "sixties_men", "forties_women", "fifties_women", "sixties_women")
